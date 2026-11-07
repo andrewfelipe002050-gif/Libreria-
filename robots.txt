@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrewfelipe002050-gif.github.io/Libreria-/sitemap.xml
